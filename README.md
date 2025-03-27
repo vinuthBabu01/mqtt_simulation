@@ -10,7 +10,6 @@ This project simulates a virtual environmental sensor station using Python and M
 - Generates simulated readings for temperature, humidity, and CO₂  
 - Publishes real-time sensor data to ThingSpeak via MQTT  
 - Stores all collected data locally for offline access  
-- Includes a script to retrieve the last five hours of sensor data  
 
 #### **Technologies Used**  
 - Python 3  
